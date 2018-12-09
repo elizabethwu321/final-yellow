@@ -1,0 +1,277 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  font-family: futura;
+  margin-top: 10px;
+  font-size: 24px;
+}
+
+a {
+  color: white;
+}
+
+.home {
+  display: flex;
+  padding: 5px;
+  margin: 10px;
+  background-color: black;
+  width: 98vw;
+  height: 10vh; 
+  font-family: "Futura", sans-serif;
+  font-size: 13px;
+  font-weight: lighter;
+  margin: auto;
+  display: block;
+
+}
+
+.home {
+  margin: auto;
+  text-align: center;
+  color: white;
+}
+
+.topbar {
+  display: flex;
+}
+
+.titleOne {
+  display: flex;
+  padding: 5px;
+  margin: 10px;
+  background-color: black;
+  width: 25vw;
+  height: 10vh; 
+  font-family: "Futura", sans-serif;
+  font-size: 13px;
+  font-weight: lighter;
+  margin: auto;
+  display: block;
+
+}
+
+.titleOne {
+  margin: auto;
+  text-align: center;
+  color: white;
+}
+
+.titleOne:hover {
+  background-color: #3a3a3a;
+}
+
+.titleTwo {
+  display: flex;
+  padding: 5px;
+  margin: 10px;
+  background-color: black;
+  width: 25vw;
+  height: 10vh; 
+  font-family: "Futura", sans-serif;
+  font-size: 13px;
+  font-weight: lighter;
+  margin: auto;
+  display: block;
+
+}
+
+.titleTwo {
+  margin: auto;
+  text-align: center;
+  color: white;
+}
+
+.titleTwo:hover {
+  background-color: #005bff;
+}
+
+.titleThree {
+  display: flex;
+  padding: 5px;
+  margin: 10px;
+  background-color: black;
+  width: 25vw;
+  height: 10vh; 
+  font-family: "Futura", sans-serif;
+  font-size: 13px;
+  font-weight: lighter;
+  margin: auto;
+  display: block;
+
+}
+
+.titleThree {
+  margin: auto;
+  text-align: center;
+  color: white;
+}
+
+.titleThree:hover {
+  background-color: #ff3800;
+}
+
+.titleFour {
+  display: flex;
+  padding: 5px;
+  margin: 10px;
+  background-color: black;
+  width: 25vw;
+  height: 10vh; 
+  font-family: "Futura", sans-serif;
+  font-size: 13px;
+  font-weight: lighter;
+  margin: auto;
+  display: block;
+
+}
+
+.titleFour {
+  margin: auto;
+  text-align: center;
+  color: white;
+}
+
+.titleFour:hover {
+  background-color: #f8af00;
+}
+
+
+
+body {
+	background-color: white;
+}
+
+.background {
+	background-color: white;
+}
+
+    .image-wrapperOne {
+      width: 400px;
+      height: auto;
+      margin: 0 auto;
+      position: relative;
+    }
+
+    .image-wrapperOne img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 400px;
+      opacity: 0;
+      transition: opacity .1s ease-in-out;
+    }
+
+    .image-wrapperTwo {
+      width: 400px;
+      height: auto;
+      margin: 0 auto;
+      position: relative;
+    }
+
+    .image-wrapperTwo img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 400px;
+      opacity: 0;
+      transition: opacity .1s ease-in-out;
+    }
+
+    .image-wrapperThree {
+      width: 400px;
+      height: auto;
+      margin: 0 auto;
+      position: relative;
+    }
+
+    .image-wrapperThree img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 400px;
+      opacity: 0;
+      transition: opacity .1s ease-in-out;
+    }
+
+    .image-wrapperFour {
+      width: 400px;
+      height: auto;
+      margin: 0 auto;
+      position: relative;
+    }
+
+    .image-wrapperFour img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 400px;
+      opacity: 0;
+      transition: opacity .1s ease-in-out;
+    }
+
+    .image-wrapperFive {
+      width: 400px;
+      height: auto;
+      margin: 0 auto;
+      position: relative;
+    }
+
+    .image-wrapperFive img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 400px;
+      opacity: 0;
+      transition: opacity .1s ease-in-out;
+    }
+
+    .button {
+      width: 18vw;
+      height: 18vh;
+      background-color: black;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      margin-left: 0px;
+      margin-right: 0px;
+      transition: opacity .1s ease-in;
+      transition: opacity 10s ease-out;
+      opacity: 0;
+    }
+
+    .button:hover {
+      opacity: 1;
+      background-color: black;
+      transition: opacity .5s ease-in;
+      transition: opacity 6s ease-out;
+    }
+
+.flex {
+      display: flex;
+      margin-top: 1px;
+      margin-right: 1px;
+      margin-bottom: 1px;
+      margin-left: 1px;
+      flex-direction: row;
+      flex-wrap: wrap;
+      align-content: space-around;
+}
+
+.space-around {
+	justify-content: space-around;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
