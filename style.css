@@ -116,7 +116,7 @@ a {
   display: flex;
   padding: 5px;
   margin: 10px;
-  background-color: black;
+  background-color: #f8af00;
   width: 25vw;
   height: 10vh; 
   font-family: "Futura", sans-serif;
@@ -134,7 +134,7 @@ a {
 }
 
 .titleFour:hover {
-  background-color: #f8af00;
+  background-color: ;
 }
 
 
